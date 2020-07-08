@@ -1,4 +1,4 @@
-# ejemplo-flask
+# cloud-flask-app-template
 ## Configuración del entorno de desarrollo
 - Crear una nueva carpeta
 - Navegar hacia la nueva carpeta desde terminal o línea de comandos

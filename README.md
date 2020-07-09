@@ -1,7 +1,8 @@
 # cloud-flask-app-template
-## Configuración del entorno de desarrollo
+## Configuración del entorno de desarrollo e instalación del código
 - Crear una nueva carpeta
 - Navegar hacia la nueva carpeta desde terminal o línea de comandos
+- Clonar el repositorio en la nueva carpeta o descargar el archivo comprimido en zip y descomprimirlo en la nueva carpeta
 - Instalar un entorno virtual de Python utilizando el siguiente comando:
     - (Linux/MacOS) `python3 -m venv .`
     - (Windows) `python -m venv .`
